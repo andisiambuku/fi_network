@@ -22,7 +22,7 @@ class NetworkCard extends StatelessWidget{
         children: <Widget>[
           Center(
             child: CircleAvatar(
-              backgroundImage: AssetImage('assets/Screenshot_2020-10-02-20-43-29-1_edited.jpg'),
+              backgroundImage: AssetImage('assets/test image'),
               radius: 60.0,
             ),
           ),
